@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{36db41cf-13e0-478d-b506-16e3689cc36c}">
+		<property name="assetPath">
+			<value>rhythmtest2.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>51.800816326530615</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9fa6651d-cce0-406f-bf06-d20df3d361e3}</destination>
+		</relationship>
+	</object>
+</objects>

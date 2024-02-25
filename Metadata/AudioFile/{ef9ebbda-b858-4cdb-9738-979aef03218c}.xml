@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ef9ebbda-b858-4cdb-9738-979aef03218c}">
+		<property name="assetPath">
+			<value>random pop thing.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>242.46857142857144</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9fa6651d-cce0-406f-bf06-d20df3d361e3}</destination>
+		</relationship>
+	</object>
+</objects>
